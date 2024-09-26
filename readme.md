@@ -13,6 +13,6 @@ The core tech is under private.
 ## Installation
 
 ```bash
-git clone https://github.com/racc-dev/your-repo.git
+git clone https://github.com/racc-dev/creating-ordinal-collection.git.git
 cd your-repo
 npm install
